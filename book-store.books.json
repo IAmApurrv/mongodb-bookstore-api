@@ -1,0 +1,118 @@
+[{
+  "_id": {
+    "$oid": "65e60b10245a1b4634a92ea2"
+  },
+  "title": "Harry Potter and the Philosopher's Stone",
+  "author": "J. K. Rowling",
+  "pages": 223,
+  "rating": 7
+},
+{
+  "_id": {
+    "$oid": "65e60b10245a1b4634a92ea3"
+  },
+  "title": "Harry Potter and the Chamber of Secrets",
+  "author": "J. K. Rowling",
+  "pages": 251,
+  "rating": 7
+},
+{
+  "_id": {
+    "$oid": "65e60b10245a1b4634a92ea4"
+  },
+  "title": "Harry Potter and the Prisoner of Azkaban",
+  "author": "J. K. Rowling",
+  "pages": 317,
+  "rating": 6
+},
+{
+  "_id": {
+    "$oid": "65e60b10245a1b4634a92ea5"
+  },
+  "title": "Harry Potter and the Goblet of Fire",
+  "author": "J. K. Rowling",
+  "pages": 636,
+  "rating": 6
+},
+{
+  "_id": {
+    "$oid": "65e60b10245a1b4634a92ea6"
+  },
+  "title": "Harry Potter and the Order of the Phoenix",
+  "author": "J. K. Rowling",
+  "pages": 766,
+  "rating": 6
+},
+{
+  "_id": {
+    "$oid": "65e60b10245a1b4634a92ea7"
+  },
+  "title": "Harry Potter and the Half-Blood Prince",
+  "author": "J. K. Rowling",
+  "pages": 607,
+  "rating": 9
+},
+{
+  "_id": {
+    "$oid": "65e60b10245a1b4634a92ea8"
+  },
+  "title": "Harry Potter and the Deathly Hallows",
+  "author": "J. K. Rowling",
+  "pages": 607,
+  "rating": 8
+},
+{
+  "_id": {
+    "$oid": "65e60bbc245a1b4634a92eaa"
+  },
+  "title": "Sacred Games",
+  "author": "Vikram Chandra",
+  "pages": 928,
+  "rating": 9
+},
+{
+  "_id": {
+    "$oid": "65edc5f10e9f4f333f262db9"
+  },
+  "title": "An Unsuitable Boy",
+  "author": "Karan Johar With Poonam Saxena",
+  "rating": 9,
+  "pages": 352,
+  "genres": [
+    "biography",
+    "narrative"
+  ],
+  "review": [
+    {
+      "name": "a1",
+      "body": "intense book"
+    },
+    {
+      "name": "a2",
+      "body": "great autobiography"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65edc5f90e9f4f333f262dba"
+  },
+  "title": "Sacred Games",
+  "author": "Vikram Chandra",
+  "rating": 9,
+  "pages": 928,
+  "genres": [
+    "thriller",
+    "suspense"
+  ],
+  "review": [
+    {
+      "name": "a1",
+      "body": "intense book"
+    },
+    {
+      "name": "a2",
+      "body": "great book"
+    }
+  ]
+}]

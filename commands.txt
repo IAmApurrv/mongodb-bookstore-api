@@ -1,0 +1,15 @@
+npm init
+
+## create App.js
+
+npm i express
+npm install -g nodemon
+npm i mongodb -save
+
+
+## create db.js
+
+
+
+# to run -->
+npm start
