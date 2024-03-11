@@ -1,4 +1,3 @@
-```markdown
 # MongoDB Bookstore API
 
 This is a simple RESTful API built with Node.js, Express, and MongoDB for managing a bookstore. It allows you to perform CRUD operations on books stored in a MongoDB database.
